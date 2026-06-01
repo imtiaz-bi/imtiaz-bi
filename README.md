@@ -21,6 +21,14 @@ I focus on bridging business strategy, technology, and analytics, with a growing
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: <a href="https://www.linkedin.com/in/imtkh" target="_blank">Click here</a>
-- GitHub: <a href="https://github.com/imtiaz-bi" target="_blank">Click here</a>
+<div class="section">
+    <h2>Connect With Me</h2>
+
+    <a class="button" href="https://www.linkedin.com/in/imtkh" target="_blank">
+        LinkedIn
+    </a>
+
+    <a class="button" href="https://github.com/imtiaz-bi" target="_blank">
+        GitHub
+    </a>
+</div>
