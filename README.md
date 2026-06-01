@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, this is Imtiaz Khan
 
-<!--
-**imtiaz-bi/imtiaz-bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help organizations turn data into actionable business insights and build AI-powered workflows that improve decision-making and sales performance.
 
-Here are some ideas to get you started:
+I focus on bridging business strategy, technology, and analytics, with a growing emphasis on Generative AI adoption.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Focus Areas
+- Business Intelligence
+- Data Analytics & Visualization
+- CRM & Sales Process Optimization
+- AI Applications in Business Workflows
+
+---
+
+## 📌 Current Interests
+- Generative and agentic AI in business processes
+- Sales and CRM automation systems
+- Data-driven decision-making in real-world business contexts
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/imtkh
+- GitHub: https://github.com/imtiaz-bi
