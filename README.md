@@ -22,5 +22,5 @@ I focus on bridging business strategy, technology, and analytics, with a growing
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/imtkh
-- GitHub: https://github.com/imtiaz-bi
+- LinkedIn: <a href="https://www.linkedin.com/in/imtkh" target="_blank">Click here</a>
+- GitHub: <a href="https://github.com/imtiaz-bi" target="_blank">Click here</a>
